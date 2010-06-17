@@ -1,0 +1,218 @@
+div#link-column-container{
+	width: 220px;
+	min-height: 600px;
+	background-color: #354c33;
+	margin: 0;
+	padding: 0;
+	display: block;
+	float: left;
+	font-family: Times;
+	}
+div#link-column {
+	width: 220px;
+	min-height: 330px;
+	background-color: #354c33;
+	margin: 0;
+	padding: 0;
+	display: block;
+	float: left;
+	}
+div#link-column a{
+	padding: 7px 7px 3px 7px;
+	display: block;
+	clear: both;	
+	color: #fff;
+	text-decoration: none;
+	width: 185px;
+	margin: 0px 10px;
+	border-bottom: 1px solid #fff;
+	}
+div#link-column a:hover{
+	background-color: #a7e0a1;
+	color: #000;
+	}
+	
+div#link-column-container h3{
+	display: block;
+	clear: both;
+	margin: 0;
+	padding: 7px 7px 3px 7px;
+	font-size: 14px;
+	}
+div#side-column h3{
+	display: block;
+	clear: both;
+	margin: 0;
+	padding: 7px 7px 10px 7px;
+	font-size: 14px;
+	}
+div#content-column-content {
+	width: 553px;
+	min-height: 600px;
+	background-color: #dbf9d8;
+	margin: 0 10px;
+	padding: 0px;
+	display: block;
+	float: left;
+	}
+	
+div#content-column {
+	width: 493px;
+	height: 360px;
+	background-color: #dbf9d8;
+	margin: 0 10px;
+	padding: 0px 20px;
+	display: block;
+	float: left;
+	}
+	
+div#content-column-search {
+	width: 513px;
+	height: 170px;
+	background-color: #dbf9d8;
+	margin: 0 10px;
+	padding: 0px 10px;
+	display: block;
+	float: left;
+	}
+	
+div.content-title {
+	width: 513px;
+	height: 20px;
+	background-color: #354c33;
+	margin: 0 0 10px 0;
+	padding: 0px 20px;
+	display: block;
+	clear: both;
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+	}
+div.recent-search-box {
+	width: 225px;
+	height: 160px;
+	background-color: #dbf9d8;
+	margin: 0 0 10px 0;
+	padding: 0px 10px;
+	display: block;
+	float: left;
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+	}
+	
+div#content-column h3{
+	display: block;
+	clear: both;
+	margin: 0;
+	padding: 7px 7px 3px 7px;
+	font-size: 14px;
+	}
+div#content-column a{
+	text-decoration: none;
+	}
+	
+div#side-column {
+	width: 200px;
+	min-height: 600px;
+	background-color: #354c33;
+	margin: 0;
+	padding: 0px 10px;
+	display: block;
+	float: left;
+	}
+	
+div#top-3-column {
+	width: 200px;
+	height: 240px;
+	background-color: #dbf9d8;
+	margin: auto;
+	padding: 0;
+	display: block;
+	clear:both;
+	margin-top: 20px;
+	position: relative;
+	}
+div#top-3-column a{
+	display: block;
+	clear: both;	
+	color: #000;
+	text-decoration: none;
+	padding: 7px 7px 3px 7px;
+	width: 145px;
+	margin: 0px 10px;
+	}
+div#top-3-column a:hover{
+	background-color: #a7e0a1;
+	color: #000;
+	}
+div.coupon-box {
+	width: 200px;
+	height: 240px;
+	display: block;
+	clear: both;
+	}
+
+div#sd-column-container{
+	width: 220px;
+	background-color: #354c33;
+	margin: 0;
+	padding: 0;
+	display: block;
+	float: left;
+	font-family: Times;
+	padding-bottom: 20px;
+	}
+div#sd-column {
+	width: 220px;
+	background-color: #354c33;
+	margin: 0;
+	padding: 0;
+	display: block;
+	float: left;
+	}
+div#sd-column a{
+	padding: 7px 7px 3px 7px;
+	display: block;
+	clear: both;	
+	color: #fff;
+	text-decoration: none;
+	width: 185px;
+	margin: 0px 10px;
+	border-bottom: 1px solid #fff;
+	}
+div#sd-column a:hover{
+	background-color: #a7e0a1;
+	color: #000;
+	}
+	
+div#sd-column-container h3{
+	display: block;
+	clear: both;
+	margin: 0;
+	padding: 7px 7px 3px 7px;
+	font-size: 14px;
+	}
+div.sd-title{
+	background-color: #354c33;
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px 5px 5px 15px;
+	}
+div#expand-content-column-content {
+	width: 553px;
+	background-color: #dbf9d8;
+	margin: 0 10px;
+	padding: 0px;
+	display: block;
+	float: left;
+	}
+div#expand-content-column {
+	width: 493px;
+	background-color: #dbf9d8;
+	margin: 0 10px;
+	padding: 0px 20px;
+	display: block;
+	float: left;
+	}

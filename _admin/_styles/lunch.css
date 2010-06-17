@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana;
+	}
+
+#content {
+	display: block;
+	clear: both;
+	float: left;
+	width: 600px;
+	padding: 0;
+	}
+
+#header {
+	display: block;
+	clear: both;
+	width: 100%;
+	height: 104px;
+	background: #fff url('/_admin/_images/lunchheader.jpg') no-repeat;
+	}	
+
+#body {
+	display: block;
+	clear: both;
+	width: 100%;
+	}	
+
+#footer {
+	display: block;
+	clear: both;
+	width: 100%;
+	height: 10px;
+	}	
+
+
+div.lunch-special {
+	display: block;
+	clear: both;
+	float: left;
+	width: 580px;
+	margin: 0 10px;
+	height: 340px;
+	}
+
+div.display-text {
+	display: block;
+	float: left;
+	width: 200px;
+	margin: 10px;
+	}
+
+div.display-image {
+	display: block;
+	float: left;
+	margin: 10px;
+	}
+
+div.display-image img{
+	display: block;
+	clear: both;
+	width: 300px;
+	height: 300px;
+	padding: 3px;
+	border: 6px double #000;
+	}
+
+
+
+
+

@@ -1,0 +1,486 @@
+div#content {
+	width: 100%;
+	margin: 0;
+	display: block;
+	clear: both;
+	}
+
+div.content-detail {
+	width: 980px;
+	margin: 5px;
+	padding:5px;
+	display: block;
+	float: left;
+	background-color: #fff;
+	}
+
+div.content-full {
+	width: 1020px;
+	margin: 0px;
+	padding:0px;
+	display: block;
+	float: left;
+	background-color: #fff;
+	}
+
+div#content-double {
+	width: 650px;
+	margin: 5px;
+	display: block;
+	float: left;
+	}
+
+div#detail-column-1 {
+	width: 453px;
+	margin: 15px;
+	display: block;
+	float: left;
+	}
+
+div#detail-column-2 {
+	width: 300px;
+	display: block;
+	float: left;
+	background-color:#354c33;
+	padding: 5px;
+	}
+
+
+
+
+
+
+
+
+div.photo-box {
+	display: block;
+	float: left;
+	width: 95px;
+	height: 95px;
+	border: 5px solid #dae2e8;
+	margin: 5px;
+	overflow: hidden;
+	text-align: center;
+	}
+
+div.content-column-list {
+	width: 320px;
+	margin: 10px;
+	display: block;
+	float: left;
+	}
+
+div#most-requested {
+	width: 330px;
+	margin: 10px 0px;
+	padding: 10px;
+	display: block;
+	float: left;
+	background-color: #ebeff2;
+	}
+
+div.building-block {
+	margin: 5px;
+	display: block;
+	float: left;
+	}
+
+div.hofo-header {
+	width: 143px;
+	height: 15px;
+	padding: 3px 10px;
+	display: block;
+	clear: both;
+	color: #445057;
+	background-color: #bac6cf;
+	font-size: 12px;
+	font-weight: bold;
+	}
+
+div.hofo-container {
+	width: 226px;
+	height: 160px;
+	padding: 6px 10px 10px 10px;
+	display: block;
+	float: left;
+	background-color: #eaeaea;
+	color: #000;
+	}
+
+div.hofo-days {
+	width: 60px;
+	height: 20px;
+	display: block;
+	float: left;
+	}
+
+div.hofo-hours {
+	width: 164px;
+	height: 20px;
+	display: block;
+	float: left;
+	}
+
+
+a.page-alpha {
+	padding: 0px 2px;
+	display: block;
+	float: left;
+	font-size: 11px;
+	}
+
+div#main-photo img {
+	border: 1px solid #000;
+	}
+
+div#map {
+	width: 290px;
+	height: 400px;
+	display: block;
+	float: left;
+	border: 5px solid #e0e0e0;
+	}
+
+div#city-list {
+	width: 290px;
+	padding: 5px;
+	margin: 0px;
+	display: block;
+	clear:both;
+	background-color: #354c33;
+	}
+
+
+
+div#message {
+	display: block;
+	clear: both;
+	width: 840px;
+	padding: 10px;
+	margin: 20px 0px;
+	padding: 20px;
+	background-color: yellow;
+	}
+div.form-row {
+	display: block;
+	float: left;
+	clear: both;
+	width: 100%;
+	padding: 10px;
+	margin: 2px 0px;
+	padding: 3px;
+	}
+div.field-name {
+	display: block;
+	float: left;
+	width: 140px;
+	margin: 5px 5px 0px 0px;
+	}
+div.field-value {
+	display: block;
+	float: left;
+	width: 500px;
+	margin: 0px;
+	}
+
+input.form{
+	display: block;
+	float: left;
+	width: 300px;
+	margin-right: 10px;
+	padding: 2px;
+	font: 13px verdana;
+	color: #000;
+	}
+
+.tall{
+	height: 60px;
+	}
+
+input.small{
+	width: 60px;
+	}
+
+
+
+
+
+div#page-footer {
+	width: 100%;
+	height: 45px;
+	margin: 0;
+	display: block;
+	clear: both;
+	position: relative;
+	top: 24px;
+	}
+
+
+
+div#sd-content {
+	display: block;
+	float: left;
+	width: 680px;
+	margin-left: 20px;
+	}
+
+
+div#search-content {
+	width: 553px;
+	height: 600px;
+	background-color: #dbf9d8;
+	margin: 0 10px;
+	padding: 0px;
+	display: block;
+	float: left;
+	}
+
+
+
+p {
+	display: block;
+	clear: both;
+	margin-bottom: 25px;
+	margin-top: 0px;
+	}
+
+div.report-card {
+	display: block;
+	clear: both;
+	background-color: #73a466;
+	color: #fff;
+	height: 28px;
+	width: 488px;
+	}
+div.report-card-sub {
+	display: none;
+	clear: both;
+	color: #000;
+	width: 486px;
+	border-left: 1px solid #73a466;
+	border-right: 1px solid #73a466;
+	}
+div.report-card-box1 {
+	display: block;
+	float: left;
+	width: 300px;
+	padding: 4px 4px;
+	}
+div.report-card-box2 {
+	display: block;
+	float: left;
+	width: 160px;
+	text-align: right;
+	padding: 4px;
+	}
+
+div.error {
+	display: block;
+	clear: both;
+	padding: 10px;
+	margin: 2px 0px;
+	background-color: yellow;
+	}
+
+div.success {
+	display: block;
+	clear: both;
+	padding: 10px;
+	margin: 2px 0px;
+	background-color: #b8dcbc;
+	}
+
+div.tab {
+	display: block;
+	float: left;
+	border-top: 1px solid #354c33;
+	border-left: 1px solid #354c33;
+	border-right: 1px solid #354c33;
+	padding: 5px;
+	margin: 0px 2px;
+	width: 100px;
+	text-align: center;
+	font-size: 11px;
+	background-color:#d7e8d9;
+	font-weight: bold;
+	}
+	
+div.tab a {
+	cursor: pointer;
+	color: #354c33;
+	}
+	
+div.tabcontent {
+	clear: both;
+	border: 1px solid #000;
+	margin: 10px 2px;
+	padding: 10px;
+	}
+	
+div.gift-preview {
+	display: block;
+	float: left;
+	border: 3px solid #5f785d;
+	padding: 5px;
+	margin: 10px;
+	width: 240px;
+	height: 240px;
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #fff;
+	}
+	
+div.gift-list {
+	display: block;
+	float: left;
+	clear: both;
+	padding: 5px;
+	margin: 10px;
+	width: 515px;
+	min-height: 40px;
+	font-size: 11px;
+	font-weight: bold;
+	}
+	
+div.gift-restrictions {
+	display: block;
+	float: left;
+	clear: both;
+	padding: 5px;
+	margin: 10px;
+	width: 515px;
+	font-size: 10px;
+	}
+	
+div.gift-company {
+	display: block;
+	float: left;
+	padding: 5px;
+	margin: 10px;
+	width: 206px;
+	font-size: 16px;
+	}
+	
+.gc-header {
+	font-size: 12px;
+	font-weight: bold;
+	color: #354c33; 
+	margin: 0px;
+	}
+	
+.gc-special {
+	font-size: 14px;
+	font-weight: bold;
+	color: #000; 
+	margin: 0px;
+	}
+
+ul#shopping-cart {
+	list-style-type: none;
+	padding: 0px;
+	margin: 5px 0px 5px 0px;
+	font-size: 11px;
+	color: #fff;	
+	}
+
+.special {
+	display: block;
+	clear: both;
+	width: 400px;
+	height: 80px;
+	padding: 2px;
+	border: 1px solid #666;
+	}
+
+.add-to-cart {
+	display: block;
+	clear: both;
+	width: 100px;
+	height: 15px;
+	border: 1px solid #000;
+	text-align: center;
+	padding: 6px 10px 10px 10px;
+	margin: 20px 10px 10px 0px;
+	background-color: #354c33;
+	color: #fff;
+	font-weight: bold;
+	font-size: 14px;
+	}
+	
+.add-to-cart-small {
+	display: block;
+	float: left;
+	width: 80px;
+	height: 13px;
+	border: 1px solid #000;
+	text-align: center;
+	padding: 6px 10px 10px 10px;
+	margin: 10px 10px 10px 13px;
+	background-color: #354c33;
+	color: #fff;
+	font-weight: bold;
+	font-size: 12px;
+	}
+	
+.add-to-cart-info {
+	display: block;
+	float: left;
+	width: 80px;
+	height: 13px;
+	border: 1px solid #000;
+	text-align: center;
+	padding: 6px 10px 10px 10px;
+	margin: 10px 10px 10px 0px;
+	background-color: #2f3d94;
+	color: #fff;
+	font-weight: bold;
+	font-size: 12px;
+	}
+	
+form input.text {
+	width: 300px;
+	}
+
+form input.tiny {
+	width: 50px;
+	}
+
+form input.short {
+	width: 100px;
+	}
+
+.image {
+	width: 130px;
+	overflow:auto;
+	vertical-align: top;
+	}
+
+table.form td.field-name {
+	width: 150px;
+	vertical-align: top;
+	font-size: 12px;
+	}
+
+table.form td.field-value {
+	width: 500px;
+	vertical-align: top;
+	}
+
+a.field-info {
+	text-decoration: none;
+	font-size: 11px;
+	color: #354c33;
+	}
+
+textarea.cat-box{
+	display: block;
+	clear: both;
+	margin-top: 10px;
+	width:720px;
+	height:600px;
+	padding:10px;
+	font-size:16px;
+	font-family:Arial;
+	border: 1px solid #999;
+	}	

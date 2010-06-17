@@ -1,0 +1,170 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #232323;
+	background-color: #fff;
+	font-family: verdana;
+	}
+body a{
+	text-decoration: none;
+	}
+
+div#page {
+	width: 1013px;
+	height: 100%;
+	display: block;
+	clear: both;
+	padding: 0 0 0 0;
+	margin: 0px auto;
+	position: relative;
+	background-color: #232323;
+	background-color: #fff;
+	}
+div#header {
+	width: 1013px;
+	height: 100px;
+	display: block;
+	clear: both;
+	padding: 0 0 0 0;
+	margin: 0px auto;
+	position: relative;
+	background-color: #fff;
+	}
+
+
+
+div#header-link-bar {
+	width: 1013px;
+	height: 32px;
+	display: block;
+	clear: both;
+	background-color: #fff;
+	margin-top: 5px;
+	font-family: Times;
+	}
+div#header-link-bar a{
+	padding: 7px 7px 3px 7px;
+	margin: 0px 2px;
+	height: 16px;
+	width: 95px;
+	display: block;
+	float: left;	
+	background-color: #354c33;
+	color: #fff;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	}
+div#header-link-bar a:hover{
+	background-color: #a7e0a1;
+	color: #000;
+	}
+
+
+div#content-full {
+	width: 1020px;
+	height: 100%;
+	display: block;
+	clear: both;
+	background-color: #fff;
+	}
+
+
+.extra-small {
+	font-size: 10px;
+	}
+.small {
+	font-size: 12px;
+	}
+.medium {
+	font-size: 14px;
+	}	
+.large {
+	font-size: 18px;
+	}	
+.extra-large {
+	font-size: 22px;
+	}	
+.extra-extra-large {
+	font-size: 28px;
+	}	
+.white {
+	color: #fff;
+	}
+.blue {
+	color: #354c33;
+	}
+.red {
+	color: #c02020;
+	}
+.ltblue {
+	color: #99cc99;
+	}
+.black {
+	color: #000;
+	}
+.bold {
+	font-weight: bold;
+	}
+.normal {
+	font-weight: normal;
+	}
+
+
+div#logo {
+	width: 360px;
+	height: 100px;
+	display: block;
+	float: left;
+	padding:0;
+	margin: 0;
+	}
+div#search-box {
+	width: 250px;
+	height: 100px;
+	display: block;
+	float: right;
+	padding:0	;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-position: bottom left;
+	color: #dbf9d8;
+	}
+
+div#featured-box {
+	width: 370px;
+	height: 70px;
+	display: block;
+	float: left;
+	padding:0;
+	margin: 25px 5px 0px 15px;
+	text-align: center;
+	}
+
+div#featured-box a{
+	text-decoration: none;
+	}
+
+div#search-box-text {
+	width: 220px;
+	height: 50px;
+	display: block;
+	float: right;
+	padding:0	;
+	margin: 40px 10px 0px 10px;
+	color: #dbf9d8;
+	}
+
+#highlight {
+	color: #000;
+	}
+
+
+
+
+
+
+
+
+
